@@ -1,0 +1,17 @@
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe.config
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Common.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Common.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csprojAssemblyReference.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CopyComplete
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.pdb

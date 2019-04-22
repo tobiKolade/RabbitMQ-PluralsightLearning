@@ -1,0 +1,10 @@
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\bin\Debug\Common.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\bin\Debug\Common.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\obj\Debug\Common.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\Common\obj\Debug\Common.pdb

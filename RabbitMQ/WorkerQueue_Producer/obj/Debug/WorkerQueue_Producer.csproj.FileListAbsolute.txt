@@ -1,0 +1,16 @@
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\WorkerQueue_Producer.exe.config
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\WorkerQueue_Producer.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\WorkerQueue_Producer.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Common.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Common.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\obj\Debug\WorkerQueue_Producer.csproj.CoreCompileInputs.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\obj\Debug\WorkerQueue_Producer.csproj.CopyComplete
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\obj\Debug\WorkerQueue_Producer.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\WorkerQueue_Producer\obj\Debug\WorkerQueue_Producer.pdb

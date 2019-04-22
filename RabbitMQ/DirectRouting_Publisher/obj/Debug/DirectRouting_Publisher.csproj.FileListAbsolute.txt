@@ -1,0 +1,17 @@
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\DirectRouting_Publisher.exe.config
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\DirectRouting_Publisher.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\DirectRouting_Publisher.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Common.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Common.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\obj\Debug\DirectRouting_Publisher.csprojAssemblyReference.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\obj\Debug\DirectRouting_Publisher.csproj.CoreCompileInputs.cache
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\obj\Debug\DirectRouting_Publisher.csproj.CopyComplete
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\obj\Debug\DirectRouting_Publisher.exe
+C:\Users\tobi.oladimeji\source\repos\RabbitMQ\DirectRouting_Publisher\obj\Debug\DirectRouting_Publisher.pdb
